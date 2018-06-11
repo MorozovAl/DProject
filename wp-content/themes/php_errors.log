@@ -1,0 +1,93 @@
+[29-May-2018 15:26:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:26:24 UTC] PHP Stack trace:
+[29-May-2018 15:26:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:29:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:29:55 UTC] PHP Stack trace:
+[29-May-2018 15:29:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:34:52 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/header.php on line 6
+[29-May-2018 15:34:52 UTC] PHP Stack trace:
+[29-May-2018 15:34:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:34:52 UTC] PHP   2. include() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:1
+[29-May-2018 15:36:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:36:22 UTC] PHP Stack trace:
+[29-May-2018 15:36:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:34 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/header.php on line 6
+[29-May-2018 15:39:34 UTC] PHP Stack trace:
+[29-May-2018 15:39:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:34 UTC] PHP   2. include() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:1
+[29-May-2018 15:39:42 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:42 UTC] PHP Stack trace:
+[29-May-2018 15:39:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:42 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:42 UTC] PHP Stack trace:
+[29-May-2018 15:39:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:55 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:55 UTC] PHP Stack trace:
+[29-May-2018 15:39:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:55 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:55 UTC] PHP Stack trace:
+[29-May-2018 15:39:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:58 UTC] PHP Warning:  include(../header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:58 UTC] PHP Stack trace:
+[29-May-2018 15:39:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:39:58 UTC] PHP Warning:  include(): Failed opening '../header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:39:58 UTC] PHP Stack trace:
+[29-May-2018 15:39:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:13 UTC] PHP Stack trace:
+[29-May-2018 15:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:27 UTC] PHP Stack trace:
+[29-May-2018 15:42:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:38 UTC] PHP Stack trace:
+[29-May-2018 15:42:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:38 UTC] PHP Stack trace:
+[29-May-2018 15:42:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:39 UTC] PHP Stack trace:
+[29-May-2018 15:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:39 UTC] PHP Stack trace:
+[29-May-2018 15:42:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:42:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 1
+[29-May-2018 15:42:40 UTC] PHP Stack trace:
+[29-May-2018 15:42:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:44:05 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 6
+[29-May-2018 15:44:05 UTC] PHP Stack trace:
+[29-May-2018 15:44:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:44:16 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 6
+[29-May-2018 15:44:16 UTC] PHP Stack trace:
+[29-May-2018 15:44:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:44:28 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 6
+[29-May-2018 15:44:28 UTC] PHP Stack trace:
+[29-May-2018 15:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:44:56 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 6
+[29-May-2018 15:44:56 UTC] PHP Stack trace:
+[29-May-2018 15:44:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:47:05 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 13
+[29-May-2018 15:47:05 UTC] PHP Stack trace:
+[29-May-2018 15:47:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 15:47:54 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 13
+[29-May-2018 15:47:54 UTC] PHP Stack trace:
+[29-May-2018 15:47:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 16:20:22 UTC] PHP Parse error:  syntax error, unexpected ''depth'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 36
+[29-May-2018 16:20:49 UTC] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 38
+[29-May-2018 16:20:49 UTC] PHP Stack trace:
+[29-May-2018 16:20:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 16:21:37 UTC] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 38
+[29-May-2018 16:21:37 UTC] PHP Stack trace:
+[29-May-2018 16:21:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[29-May-2018 16:21:39 UTC] PHP Fatal error:  Call to undefined function wp_nav_menu() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php on line 38
+[29-May-2018 16:21:39 UTC] PHP Stack trace:
+[29-May-2018 16:21:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bodybuilding.php:0
+[30-May-2018 18:23:17 UTC] PHP Fatal error:  Call to undefined function bloginfo() in /home/ubuntu/workspace/wp-content/themes/MyTheme/bbtrain.php on line 6
+[30-May-2018 18:23:17 UTC] PHP Stack trace:
+[30-May-2018 18:23:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/bbtrain.php:0
+[30-May-2018 18:57:58 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/index.php on line 1
+[30-May-2018 18:57:58 UTC] PHP Stack trace:
+[30-May-2018 18:57:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/index.php:0
+[30-May-2018 19:05:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/MyTheme/index.php on line 1
+[30-May-2018 19:05:46 UTC] PHP Stack trace:
+[30-May-2018 19:05:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/MyTheme/index.php:0

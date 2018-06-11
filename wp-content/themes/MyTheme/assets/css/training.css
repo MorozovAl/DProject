@@ -1,0 +1,8 @@
+.spoiler-trigger {
+    color:rgba(230, 12, 50, 0.7);
+    border: 2px solid transparent;
+}
+
+.spoiler-trigger:hover {
+    border: 2px solid rgba(230, 12, 50, 0.7);
+}

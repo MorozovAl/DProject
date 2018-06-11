@@ -1,0 +1,56 @@
+[29-May-2018 17:41:35 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:41:35 UTC] PHP Stack trace:
+[29-May-2018 17:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:41:35 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:41:35 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:41:35 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:41:35 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:41:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:41:35 UTC] PHP Stack trace:
+[29-May-2018 17:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:41:35 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:41:35 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:41:35 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:41:35 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:43:36 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:43:36 UTC] PHP Stack trace:
+[29-May-2018 17:43:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:43:36 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:43:36 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:43:36 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:43:36 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:43:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:43:36 UTC] PHP Stack trace:
+[29-May-2018 17:43:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:43:36 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:43:36 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:43:36 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:43:36 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:45:26 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:45:26 UTC] PHP Stack trace:
+[29-May-2018 17:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:45:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:45:26 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:45:26 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:45:26 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:45:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:45:26 UTC] PHP Stack trace:
+[29-May-2018 17:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:45:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:45:26 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:45:26 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:45:26 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:45:37 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:45:37 UTC] PHP Stack trace:
+[29-May-2018 17:45:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:45:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:45:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:45:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:45:37 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
+[29-May-2018 17:45:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/MyTheme/inc/template-tags.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/MyTheme/functions.php on line 258
+[29-May-2018 17:45:37 UTC] PHP Stack trace:
+[29-May-2018 17:45:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[29-May-2018 17:45:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[29-May-2018 17:45:37 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[29-May-2018 17:45:37 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[29-May-2018 17:45:37 UTC] PHP   5. include() /home/ubuntu/workspace/wp-settings.php:424
